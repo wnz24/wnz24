@@ -1,7 +1,7 @@
 ### <div align="center">I'm Wajeeha, a full-stack Mern developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [Horizon(Banking App)]([https://github.com/rishavanand/github-profilinator](https://github.com/wnz24/banking_app))  
+- 🔭 I’m currently working on [Horizon (Banking App)](https://github.com/wnz24/banking_app])  
   
 
 - 🌱 I’m currently learning java   
@@ -82,7 +82,21 @@
 <br/>  
 
 
+## Recent Blog Posts  
+  
 
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
