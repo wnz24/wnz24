@@ -1,7 +1,7 @@
 ### <div align="center">I'm Wajeeha, a full-stack Mern developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Horizon(Banking App)]([https://github.com/rishavanand/github-profilinator](https://github.com/wnz24/banking_app))  
   
 
 - 🌱 I’m currently learning java   
